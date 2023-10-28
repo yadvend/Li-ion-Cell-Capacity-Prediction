@@ -81,7 +81,7 @@ More features could be added to train the model, moreover aggregated features co
 
 More Data Points can also be added for better training and prediction
 
-![Result](/result.jpg)
+
 
 
 
